@@ -22,6 +22,8 @@ You want to increase the validator set, distribute ownership of token, and incre
     - This doesn't work for high TPS chains, it takes 70ms for light to travel around the world and back, if more parties need to approve of the transaction, it slows confirmation & finality times. So increasing the validator set has to slow down confirmation & finality times.
 
 - Token Distribution, this is generally determined at IDO and then determined by the amount of user interest in purchasing token. For chains that have heavy insider ownership, I believe using a cosmos-like approach of having many app-chains, each owned by a different party works best in decentralizing the chain.
-    - Another approach is eigenlayer-esque borrowing decentralization from a different token. This doesn't work when the project is large enough however because the centralizing bottleneck then becomes eigenlayer itself, users need to trust the chains owners and then eigenlayer. Eigenlayer-esque borrowing decentralization works well for projects that are smaller than EigenLayer, allowing them to borrow from Eigenlayer's credibility to bootstrap 'de facto' decentralization.
+    - Another approach is Eigenlayer-esque borrowing decentralization from a different token. This doesn't work when the project is large enough however because the centralizing bottleneck then becomes eigenlayer itself, users need to trust the chains owners and then eigenlayer. Eigenlayer-esque borrowing decentralization works well for projects that are smaller than EigenLayer, allowing them to borrow from Eigenlayer's credibility to bootstrap 'de facto' decentralization.
+    - Who is the correct party to borrow credibility from? I believe its the party that's paying the most attention. 
+
 
 
