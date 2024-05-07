@@ -11,3 +11,6 @@ A firm like Ogier or Harneys will charge you 20-40K to do offshore setup, then c
 You then have a C-Corp in the USA which collects salaries from the Cayman Entity and pays employees etc. Your c-corp should have a business banking account while obtaining a cayman bank account is a pain and takes 2-3 months (I'd avoid it). Total offshore setup is predicted to take 4-5 weeks.
 
 Though initial setup isn't too expensive, the concern is taking any action (such as audit defence from the IRS) will start to incur more serious legal fees, so minimizing costs actually enables the crypto firm to use more legal services and be better protected. Legal bills can multiply fast and its in a firms best interst in my opinion to work with a setup where they can definitely afford the costs of defence and upkeep should it come to it.
+
+
+After some research seems like the most standard way to set this up is have a c-corp for U.S Salaries, and then a Cayman Entity for the Labs Corporation to take in investment funds and then a BVI entity to actually issue the token.
