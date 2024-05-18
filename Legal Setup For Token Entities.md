@@ -14,3 +14,7 @@ Though initial setup isn't too expensive, the concern is taking any action (such
 
 
 After some research seems like the most standard way to set this up is have a c-corp for U.S Salaries, and then a Cayman Exempt Entity for the Labs Corporation to take in investment funds in the form of a SAFE note. Later on set up a Cayman Foundation to manage the DAO and then a BVI entity to actually issue the token. The reason for the BVI entity is that the Caymans is more restrictive around token issuance while the BVI has no laws regulating tokens.
+
+You may be able to use a SAFT note as long as you keep careful accounting of the deferred revenue from the SAFT on your balance sheet to avoid triggering tax liability on the net fundraise amount. Will update on this in a bit. Given the difficulty of taxes, I also chose to go with a crypto specialty accounting firm to ensure the offshore / tax burden is reported properly.
+
+
