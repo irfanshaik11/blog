@@ -1,6 +1,5 @@
 ## OnChain SAAS 
 
-The issue with SAAS software is that its generally a winner take all market, tech companies that win in their respective fields become monopolies and basically make it impossible for smaller companies to come up. Users want to use best in class software, and they all congrate around one app usually. 
 
 Traditional saas applications have a problem where the creator of the app doesn't have a network effect on its usage. Say I'm the creator of a calendar app with a creative unique feature.
 
@@ -21,4 +20,6 @@ A future where generic SAAS apps can be launched on-chain is good, because (1) t
 For this reason, I believe if we are able to bring crypto to a point where one can launch generic SAAS apps onchain, it will be a powerful tool for founders. Crypto's power is in its incetives, and it does an excellent job of handing this power to smaller time founders and away from megamonopolies. 
 
 
-(Take an app like calendly, since every crypto app is worth like 100x its traditional version (for good and some not good reasons), on-chain calendly would be worth many more times regular calendly, and thus would love to be on-chain if it could do so.)
+- Take an app like calendly, since every crypto app is worth like 100x its traditional version (for good and some not good reasons), on-chain calendly would be worth many more times regular calendly, and thus would love to be on-chain if it could do so.
+- SAAS software is that its generally a winner take all market, tech companies that win in their respective fields become monopolies and basically make it impossible for smaller companies to come up. Users want to use best in class software, and they all congrate around one app usually. 
+
