@@ -1,10 +1,12 @@
 ## OnChain SAAS 
 
-Traditional saas applications have a problem where the creator of the app doesn't have a network effect on its usage. Say I'm the creator of a novel feature calendar app with a creative unique feature.
+The issue with SAAS software is that its generally a winner take all market, tech companies that win in their respective fields become monopolies and basically make it impossible for smaller companies to come up. Users want to use best in class software, and they all congrate around one app usually. 
 
-Let's say this feature makes it super popular among its users. In comes Microsoft or another big tech and they simple copy the feature and insert it into their existing calendar app. (Microsoft is basically a SAAS cloning factory).
+Traditional saas applications have a problem where the creator of the app doesn't have a network effect on its usage. Say I'm the creator of a calendar app with a creative unique feature.
 
-Because of their superior distirbution, Microsoft is likely to gain the upper hand and starve out the smaller company, increasing its monopoly power. This is bad for individuals and suppressive to new startups. The incremental startup founder would likely just join Microsoft instead of trying to compete on their creative Calendar App.
+Let's say this feature makes it super popular among its users. In comes Microsoft or another big tech and they simply copy the feature and insert it into their existing calendar app. (Microsoft is basically a SAAS cloning factory). 
+
+Because of their superior distirbution, Microsoft is likely to gain the upper hand and starve out the smaller company, increasing its monopoly power. This is bad for individuals and suppressive to new startups. The incremental startup founder would likely just join Microsoft instead of trying to build their own creative calendar app.
 
 While at Microsoft they would likely be less innovative, since they have less incentive to. Therefore the distribution monopolies of major tech companies starves the world of creative ideas (in some cases, in other cases like building mega data centers for AI, Microsofti is doing a great job).
 
