@@ -1,6 +1,6 @@
 I've seen plenty of founders flame out, especially in crypto. The news is scattered with founders that pushed the bar a little too far, flew a little too close to the sun and irreparably damaged their careers or even ended up in jail.
 
-Vinod Khosla similarly believes "Failure does not matter, only success matters". This is caveated by Elon, "Failure does not matter unless its catastrophic". This seems to be the correct advice. 
+Vinod Khosla believes "Failure does not matter, only success matters". This is caveated by Elon, "Failure does not matter unless its catastrophic". This seems to be the correct advice. 
 
 Crypto founding can feel like straddling the Catastrophic, so to feel better, I'll try to define it narrowly.
 
