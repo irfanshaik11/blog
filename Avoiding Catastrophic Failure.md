@@ -23,4 +23,7 @@ Elizabeth Holmes
       - I'd say its catastrophic.
 
 
-Thus the conclusion seems, outside of explicitly committing fraud for several billion, there aren't that many consequences for failure. I think the only thing to really fear is fear itself. 
+Thus the conclusion seems, outside of explicitly committing fraud for several billion, there aren't that many consequences for failure. On the contrary, according to Altman, there's less competition for highly ambitious companies as few people dare to aim big.
+
+
+I think the only thing to really fear is fear itself. 
