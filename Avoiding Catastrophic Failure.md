@@ -9,11 +9,10 @@ How do we define catastrophic?
 - Bankman Fried is obviously catastrophic, he's in jail for 20+ years. Don't steal billions of dollars.
 - Neel Somani's reputation is ruined permanently in exchange for $8M dollars. Is that irreperable damage?
 
-          - It probably limits him from most ventures in the tradfi world, and probably totally eliminates his chance of running a genuine billion dollar company. But if we're guessing from his behavior, he didn't really ever intend to do so. 
-          - Probably his career aims are within the 10s of Ms range. If we narrowly define his aims in this lens, he's obtained enough to effectively retire and invest / advise.
-          - What's his next move? Guessing from Ian M (the infamous solana developer), I'd guess he'd base offshore and attempt to reappear in a year withing crypto. Likely he'll hang around the fringees of crypto for a bit.
-
-          - Thus this isn't catastrophic damange
+  - It probably limits him from most ventures in the tradfi world, and probably totally eliminates his chance of running a genuine billion dollar company. But if we're guessing from his behavior, he didn't really ever intend to do so. 
+  - Probably his career aims are within the 10s of Ms range. If we narrowly define his aims in this lens, he's obtained enough to effectively retire and invest / advise.
+  - What's his next move? Guessing from Ian M (the infamous solana developer), I'd guess he'd base offshore and attempt to reappear in a year withing crypto. Likely he'll hang around the fringees of crypto for a bit.
+  - Thus this isn't catastrophic damange
 
 Vivek Ramaswamy
 
