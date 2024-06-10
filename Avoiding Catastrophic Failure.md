@@ -6,7 +6,7 @@ Crypto founding can feel like straddling the Catastrophic, so to feel better, I'
 
 How do we define catastrophic?
 
-- Bankman Freed is obviously catastrophic, he's in jail for 20+ years. Don't steal billions of dollars.
+- Bankman Fried is obviously catastrophic, he's in jail for 20+ years. Don't steal billions of dollars.
 - Neel Somani's reputation is ruined permanently in exchange for $8M dollars. Is that irreperable damage?
 
           - It probably limits him from most ventures in the tradfi world, and probably totally eliminates his chance of running a genuine billion dollar company. But if we're guessing from his behavior, he didn't really ever intend to do so. 
