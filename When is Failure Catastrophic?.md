@@ -2,7 +2,7 @@ I've seen plenty of founders flame out, especially in crypto. The news is scatte
 
 Vinod Khosla believes "Failure does not matter, only success matters". This is caveated by Elon, "Failure does not matter unless its catastrophic". This seems to be the correct advice. 
 
-Crypto founding can feel like straddling the Catastrophic, so to feel better, I'll try to define it narrowly.
+Crypto founding can feel like straddling the catastrophic, so to feel better, I'll try to define it narrowly.
 
 How do we define catastrophic?
 
@@ -12,7 +12,7 @@ How do we define catastrophic?
   - It probably limits him from most ventures in the tradfi world, and probably totally eliminates his chance of running a genuine billion dollar company. But if we're guessing from his behavior, he didn't really ever intend to do so. 
   - Probably his career aims are within the 10s of Ms range. If we narrowly define his aims in this lens, he's obtained enough to effectively retire and invest / advise.
   - What's his next move? Guessing from Ian M (the infamous solana developer), I'd guess he'd base offshore and attempt to reappear in a year withing crypto. Likely he'll hang around the fringees of crypto for a bit.
-  - Thus this isn't catastrophic damange
+  - Thus this isn't catastrophic damage
 
 Vivek Ramaswamy
   - Created a sketchy alzheimer's drug company and committed the typical pump the drug research, sell equity before it ultimately fails.
