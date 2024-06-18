@@ -15,7 +15,7 @@ How do we define catastrophic?
   - Thus this isn't catastrophic damage
 
 Vivek Ramaswamy
-  - Created a sketchy alzheimer's drug company and committed the typical pump the drug research, sell equity before it ultimately fails.
+  - Created an alzheimer's drug company and committed the typical pump the drug research, sell equity before it ultimately fails.
   - Is this catastrophic failure? According to him, no. He said he cried a little but realized that despite his billion dollar company failing he was surprised by the total lack of consequences.
   - Successful political career after.
 
