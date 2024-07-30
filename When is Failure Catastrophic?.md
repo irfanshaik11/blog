@@ -25,5 +25,7 @@ Elizabeth Holmes
 
 Thus the conclusion seems, outside of explicitly committing fraud for several billion, there aren't that many consequences for failure. On the contrary, according to Altman, there's less competition for highly ambitious companies as few people dare to aim big.
 
+I think most founders are guilty of thinking too small rather than too large. Capital is a really good leverage of time, and time is the only currency you can't generate more of. I also think there's few people that understand how to deploy large amounts of capital very well.
 
 I think the only thing to really fear is fear itself. 
+
